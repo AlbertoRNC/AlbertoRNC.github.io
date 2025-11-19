@@ -1,0 +1,48 @@
+
+*{
+    font-family: 'Arial, sans-serif';
+    background-color: lightgray;
+    justify-content: center;
+    align-items: center;   
+}
+h1 {
+    color:black;
+    font-size: 2em;
+}
+.text {
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+textarea{
+    background-color: white;
+    margin: 10px;
+    border-color: black;
+    border-radius: 5px;
+}
+#contraseña{
+    background-color: white;
+    border-radius: 5px;
+}
+#nombre{
+    background-color: white;
+    border-radius: 5px;
+}
+#apellido{
+    background-color: white;
+    border-radius: 5px;
+}
+#correo{
+    background-color: white;
+    border-radius: 5px;
+}
+#interes{
+    color: black;
+}
+button:hover {
+    color: black;
+    border-color: black;
+    border-radius: 5px;
+    background-color: white;
+    opacity: 0.85;
+}
